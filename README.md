@@ -1,4 +1,4 @@
-# Coba Aja | Just Try
+# Coba Aja
 
 This repo is not a project for building an app. The intention to created this repo was to do some trick in Git like how to : 
 
